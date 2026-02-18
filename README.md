@@ -45,9 +45,9 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 🔮 **[backlog-forecast](https://github.com/Artmann/backlog-forecast)** — Backlog forecasting with Monte Carlo simulation
 - ⏰ **[run-occasionally](https://github.com/Artmann/run-occasionally)** — Run commands on a schedule
 - 🖥️ **[network-monitor](https://github.com/Artmann/network-monitor)** — Network monitoring tool
-- 🐷 **[squeal](https://github.com/Artmann/squeal)** — SQL toolkit
+- 🐷 **[squeal](https://github.com/Artmann/squeal)** — A Delightful SQL Client
 - 📄 **[website-to-markdown-chrome](https://github.com/Artmann/website-to-markdown-chrome)** — Chrome extension to convert websites to markdown
-- 🔭 **[meerkat-cli](https://github.com/Artmann/meerkat-cli)** — CLI tool
+- 🔭 **[meerkat-cli](https://github.com/Artmann/meerkat-cli)** — CLI tool that suggests internal links that you can add to your website
 - ⚛️ **[react-koa-template](https://github.com/Artmann/react-koa-template)** — React SPA + Koa backend template
 
 **Game Dev:**
