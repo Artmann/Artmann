@@ -16,7 +16,7 @@
 
 Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data workspace. Spoke at [JupyterCon 2025](https://www.jupytercon.com/) about building collaborative data tools.
 
-### 🚀 Current Projects
+### Current Projects
 
 - 🐼 **[Pull Panda](https://pullpanda.io/)** — Delightful code reviews for the AI era
 - 📣 **[Airhorn](https://www.useairhorn.com/)** — Find gaming YouTubers & streamers who cover games like yours
@@ -26,7 +26,7 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 👨‍🍳 **[Gustavs Kitchen](https://www.gustavskitchen.se/)** — Learn how to cook tasty food
 - 🎮 **[Steam Revenue Calculator](https://steam-revenue-calculator.com/)** — Revenue calculator for Steam games
 
-### 📦 Open Source
+### Open Source
 
 **MCP Servers & AI Tools:**
 
@@ -56,12 +56,12 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 🌊 **[Breeze](https://github.com/Artmann/Breeze)** — Tailwind-like classes for Unity's UI Toolkit
 
 
-### 📈 GitHub Activity
+### GitHub Activity
 
 ![Chris's GitHub activity graph](https://ghchart.rshah.org/Artmann)
 
 
-### ✍️ Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [30 Years of `<br>` Tags](https://artmann.co/articles/30-years-of-br-tags)
@@ -74,7 +74,7 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 ➡️ [More articles on artmann.co](https://artmann.co)
 
 
-### 🤝 Connect
+### Connect
 
 [![Twitter](https://img.shields.io/badge/@ChrisArtmann-000000?style=flat&logo=x&logoColor=white)](https://x.com/ChrisArtmann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chistoffer-artmann/)
