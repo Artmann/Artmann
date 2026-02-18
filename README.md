@@ -14,7 +14,7 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-> *"I just love building things. 30+ years on the web and still shipping."*
+> *"I just love building things."*
 
 ---
 
