@@ -16,13 +16,7 @@
 
 > *"I just love building things."*
 
----
-
-### 🏢 Current Role
-
 Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data workspace. Spoke at [JupyterCon 2025](https://www.jupytercon.com/) about building collaborative data tools.
-
----
 
 ### 🚀 Current Projects
 
@@ -36,7 +30,6 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 | 👨‍🍳 | **[Gustavs Kitchen](https://www.gustavskitchen.se/)** | Learn how to cook tasty food |
 | 🎮 | **[Steam Revenue Calculator](https://steam-revenue-calculator.com/)** | Revenue calculator for Steam games |
 
----
 
 ### 📦 Open Source
 
@@ -73,13 +66,11 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 | 🎨 | **[blender-batch-fbx-exporter](https://github.com/Artmann/blender-batch-fbx-exporter)** ⭐ 15 | Export Blender objects into separate FBX files |
 | 🌊 | **[Breeze](https://github.com/Artmann/Breeze)** | Tailwind-like classes for Unity's UI Toolkit |
 
----
 
 ### 📈 GitHub Activity
 
 ![Chris's GitHub activity graph](https://ghchart.rshah.org/Artmann)
 
----
 
 ### ✍️ Latest Blog Posts
 
@@ -93,7 +84,6 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 
 ➡️ [More articles on artmann.co](https://artmann.co)
 
----
 
 ### 🤝 Connect
 
