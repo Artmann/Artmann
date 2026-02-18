@@ -30,15 +30,15 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 
 **MCP Servers & AI Tools:**
 
-- 📦 **[package-registry-mcp](https://github.com/Artmann/package-registry-mcp)** ⭐ 34 — MCP server for NPM, Cargo, PyPi, and NuGet packages
-- 🕸️ **[web-developer-mcp](https://github.com/Artmann/web-developer-mcp)** ⭐ 5 — Browser automation & DOM inspection for AI assistants
+- 📦 **[package-registry-mcp](https://github.com/Artmann/package-registry-mcp)** — MCP server for NPM, Cargo, PyPi, and NuGet packages
+- 🕸️ **[web-developer-mcp](https://github.com/Artmann/web-developer-mcp)** — Browser automation & DOM inspection for AI assistants
 - 🔍 **[review-changes](https://github.com/Artmann/review-changes)** — Claude Code skill for reviewing feature branches
 - 🚦 **[foghorn-api](https://github.com/Artmann/foghorn-api)** — Automated Lighthouse audits & web performance tracking
 - 🧲 **[embedded-raptor](https://github.com/Artmann/embedded-raptor)** — Lightweight semantic search database with embeddings
 
 **Libraries & Tools:**
 
-- 🦎 **[esix](https://github.com/Artmann/esix)** ⭐ 5 — A really slick ORM for MongoDB
+- 🦎 **[esix](https://github.com/Artmann/esix)** — A really slick ORM for MongoDB
 - 🔀 **[fuzzy-comparison](https://github.com/Artmann/fuzzy-comparison)** — String similarity comparison
 - 📝 **[tiny-typescript-logger](https://github.com/Artmann/tiny-typescript-logger)** — Colorized terminal log messages
 - 📊 **[correlations](https://github.com/Artmann/correlations)** — CLI for Pearson Correlation Coefficients
@@ -48,11 +48,11 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 🐷 **[squeal](https://github.com/Artmann/squeal)** — SQL toolkit
 - 📄 **[website-to-markdown-chrome](https://github.com/Artmann/website-to-markdown-chrome)** — Chrome extension to convert websites to markdown
 - 🔭 **[meerkat-cli](https://github.com/Artmann/meerkat-cli)** — CLI tool
-- ⚛️ **[react-koa-template](https://github.com/Artmann/react-koa-template)** ⭐ 5 — React SPA + Koa backend template
+- ⚛️ **[react-koa-template](https://github.com/Artmann/react-koa-template)** — React SPA + Koa backend template
 
 **Game Dev:**
 
-- 🎨 **[blender-batch-fbx-exporter](https://github.com/Artmann/blender-batch-fbx-exporter)** ⭐ 15 — Export Blender objects into separate FBX files
+- 🎨 **[blender-batch-fbx-exporter](https://github.com/Artmann/blender-batch-fbx-exporter)** — Export Blender objects into separate FBX files
 - 🌊 **[Breeze](https://github.com/Artmann/Breeze)** — Tailwind-like classes for Unity's UI Toolkit
 
 
