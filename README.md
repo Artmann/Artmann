@@ -20,7 +20,7 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 
 - 🐼 **[Pull Panda](https://pullpanda.io/)** — Delightful code reviews for the AI era
 - 📣 **[Airhorn](https://www.useairhorn.com/)** — Find gaming YouTubers & streamers who cover games like yours
-- 🍽️ **[Bitesized](https://www.bitesized.app/)** — Digital menu platform for restaurants
+- 🍔 **[Bitesized](https://www.bitesized.app/)** — Digital menu platform for restaurants
 - 🎃 **[PMKIN](https://pmkin.io/)** — Content creation tool with Next.js integration
 - 🚀 **[Resume Rocket](https://resumerocket.io/)** — AI-powered resume builder
 - 👨‍🍳 **[Gustavs Kitchen](https://www.gustavskitchen.se/)** — Learn how to cook tasty food
@@ -34,20 +34,19 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 🕸️ **[web-developer-mcp](https://github.com/Artmann/web-developer-mcp)** — Browser automation & DOM inspection for AI assistants
 - 🔍 **[review-changes](https://github.com/Artmann/review-changes)** — Claude Code skill for reviewing feature branches
 - 🚦 **[foghorn-api](https://github.com/Artmann/foghorn-api)** — Automated Lighthouse audits & web performance tracking
-- 🧲 **[olingo](https://github.com/Artmann/olingo)** — Lightweight semantic search database with embeddings
+- 🔍 **[olingo](https://github.com/Artmann/olingo)** — Lightweight semantic search database with embeddings
 
 **Libraries & Tools:**
 
 - 🦎 **[esix](https://github.com/Artmann/esix)** — A really slick ORM for MongoDB
-- 🔀 **[fuzzy-comparison](https://github.com/Artmann/fuzzy-comparison)** — String similarity comparison
 - 📝 **[tiny-typescript-logger](https://github.com/Artmann/tiny-typescript-logger)** — Colorized terminal log messages
-- 📊 **[correlations](https://github.com/Artmann/correlations)** — CLI for Pearson Correlation Coefficients
-- 🔮 **[backlog-forecast](https://github.com/Artmann/backlog-forecast)** — Backlog forecasting with Monte Carlo simulation
-- ⏰ **[run-occasionally](https://github.com/Artmann/run-occasionally)** — Run commands on a schedule
-- 🖥️ **[network-monitor](https://github.com/Artmann/network-monitor)** — Network monitoring tool
 - 🐷 **[squeal](https://github.com/Artmann/squeal)** — A Delightful SQL Client
 - 📄 **[website-to-markdown-chrome](https://github.com/Artmann/website-to-markdown-chrome)** — Chrome extension to convert websites to markdown
 - 🔭 **[meerkat-cli](https://github.com/Artmann/meerkat-cli)** — CLI tool that suggests internal links that you can add to your website
+- 🔀 **[fuzzy-comparison](https://github.com/Artmann/fuzzy-comparison)** — String similarity comparison
+- 📊 **[correlations](https://github.com/Artmann/correlations)** — CLI for Pearson Correlation Coefficients
+- 🔮 **[backlog-forecast](https://github.com/Artmann/backlog-forecast)** — Backlog forecasting with Monte Carlo simulation
+- 🖥️ **[network-monitor](https://github.com/Artmann/network-monitor)** — Network monitoring tool
 - ⚛️ **[react-koa-template](https://github.com/Artmann/react-koa-template)** — React SPA + Koa backend template
 
 **Game Dev:**
