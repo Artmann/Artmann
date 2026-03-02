@@ -34,7 +34,7 @@ Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data wo
 - 🕸️ **[web-developer-mcp](https://github.com/Artmann/web-developer-mcp)** — Browser automation & DOM inspection for AI assistants
 - 🔍 **[review-changes](https://github.com/Artmann/review-changes)** — Claude Code skill for reviewing feature branches
 - 🚦 **[foghorn-api](https://github.com/Artmann/foghorn-api)** — Automated Lighthouse audits & web performance tracking
-- 🧲 **[embedded-raptor](https://github.com/Artmann/embedded-raptor)** — Lightweight semantic search database with embeddings
+- 🧲 **[olingo](https://github.com/Artmann/olingo)** — Lightweight semantic search database with embeddings
 
 **Libraries & Tools:**
 
