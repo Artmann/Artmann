@@ -14,7 +14,6 @@
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-Tech Lead at **[Deepnote](https://deepnote.com)** — the notebook-first data workspace. Spoke at [JupyterCon 2025](https://www.jupytercon.com/) about building collaborative data tools.
 
 ### Current Projects
 
