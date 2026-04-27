@@ -22,7 +22,7 @@
 - 🍔 **[Bitesized](https://www.bitesized.app/)** — Digital menu platform for restaurants
 - 🎃 **[PMKIN](https://pmkin.io/)** — Content creation tool with Next.js integration
 - 🚀 **[Resume Rocket](https://resumerocket.io/)** — AI-powered resume builder
-- 👨‍🍳 **[Gustavs Kitchen](https://www.gustavskitchen.se/)** — Learn how to cook tasty food
+- 👨‍🍳 **[Gustavs Kitchen](https://gustavskitchen.se/)** — Learn how to cook tasty food
 - 🎮 **[Steam Revenue Calculator](https://steam-revenue-calculator.com/)** — Revenue calculator for Steam games
 - 🥩 **[no cap food rankings](https://no-cap-food-rankings.vercel.app/)** - A food ranking game where users vote on which country's food they prefer
 
