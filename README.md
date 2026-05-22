@@ -19,6 +19,7 @@
 
 - 🐼 **[Pull Panda](https://pullpanda.io/)** — Delightful code reviews for the AI era
 - 📣 **[Airhorn](https://www.useairhorn.com/)** — Find gaming YouTubers & streamers who cover games like yours
+- 🐻 **[Spanish Bear](https://spanishbear.com/)** - Learn and Practice Spanish.
 - 🍔 **[Bitesized](https://www.bitesized.app/)** — Digital menu platform for restaurants
 - 🎃 **[PMKIN](https://pmkin.io/)** — Content creation tool with Next.js integration
 - 🚀 **[Resume Rocket](https://resumerocket.io/)** — AI-powered resume builder
