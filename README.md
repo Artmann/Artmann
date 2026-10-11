@@ -17,6 +17,7 @@
 
 ### Current Projects
 
+- 🍽️ **[Tiny Plates](https://www.tinyplates.dev/)** — Recipe API and MCP server for structured recipes
 - 🐼 **[Pull Panda](https://pullpanda.io/)** — Delightful code reviews for the AI era
 - 📣 **[Airhorn](https://www.useairhorn.com/)** — Find gaming YouTubers & streamers who cover games like yours
 - 🐻 **[Spanish Bear](https://spanishbear.com/)** - Learn and Practice Spanish.
